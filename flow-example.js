@@ -1,1 +1,1 @@
-const numCats: number = 7
+const numCats: number = 7;
