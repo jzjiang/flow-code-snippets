@@ -1,4 +1,4 @@
-let changingType = "cat";
+let changingType: string = "cat";
 if (false) {
   // This code will never execute
   changingType = 5;
